@@ -1,7 +1,7 @@
 # Build and Deploy a Full Stack application to the Edge with Neon, Next.js and Vercel
 
 ## Sponsor
-<img src="./img/neon.svg" />
+<img src="./neon.svg" />
 
 Thank you to [Neon](https://bit.ly/NeonWithTom) for sponsoring this video!
 
