@@ -38,3 +38,4 @@ In this video we are going to be building a deploying a simple application where
 - [Vercel CLI](https://vercel.com/docs/cli)
 - [Neon Serverless PostgreSQL](https://bit.ly/NeonWithTom)
 - [Neon CLI](https://www.npmjs.com/package/neonctl)
+- [Next.js](https://nextjs.org/)
